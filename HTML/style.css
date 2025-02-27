@@ -1,0 +1,56 @@
+.h1{
+    color:red;
+    text-align: center;
+    font-size: 30px;
+    font-style:italic;
+    font-family: "Caveat";
+}
+.box{
+    text-align: center;
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    background-size: cover;
+    height:100vh;
+    
+}
+.botamma{
+    text-align: center;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius:25px ;
+    width:138px;
+    height:36px;
+}
+.boxone{
+    background-color: azure;
+    text-align: center;
+    padding: 5px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.box2{
+    text-align:center;
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    background-size: cover;
+    height:100vh;
+    
+}
+.h21{
+    color:rgb(9, 9, 9);
+    font-size: 30px;
+    font-style:italic;
+    font-family: "Caveat";
+}
+.minbox{
+    background-color: rgb(255, 255, 255);
+    padding:16px;
+    margin:15px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius:25px ;
+}
+.image{
+    width: 80px;
+    height: 100px;
+}
